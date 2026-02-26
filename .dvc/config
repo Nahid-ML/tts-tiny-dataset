@@ -1,0 +1,5 @@
+[core]
+    remote = ttsdata
+['remote "ttsdata"']
+    url = s3://tts-tiny/dataset
+    endpointurl = http://172.16.229.199:30293/
